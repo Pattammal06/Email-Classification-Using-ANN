@@ -96,7 +96,7 @@ Email-Classification-Using-ANN/
 │
 ├── Email_Classification_Using_ANN.ipynb
 ├── README.md
-├── spam1.csv
+├── spam.csv
 ```
 
 ---
